@@ -3,7 +3,7 @@ const path = require("path");
 const fs = require("fs");
 let danus = "0";
 const app = express(); // создать серверное приложение
-const DJ_en = 6003;
+const DJ_en = 7000;
 const freq = () => ({
   125: {},
   250: {},
